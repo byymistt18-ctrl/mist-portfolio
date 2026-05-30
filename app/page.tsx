@@ -232,7 +232,7 @@ className="w-10 h-10 rounded-xl object-cover object-center shadow-[0_0_40px_rgba
           <div className="mt-8 flex flex-wrap justify-center gap-3">
             {[
               "Staff Manager",
-              "SS-Manager",
+              "SS-Manager in progress",
               "Media Manager",
               "Gestión de Equipos",
               "Moderación",
@@ -922,6 +922,7 @@ className="w-10 h-10 rounded-xl object-cover object-center shadow-[0_0_40px_rgba
         Mist
       </span>{" "}
       — Portafolio Staff Manager
+      — Made by Shade Studio
     </p>
   </div>
 
