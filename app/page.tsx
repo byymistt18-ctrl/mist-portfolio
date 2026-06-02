@@ -458,23 +458,23 @@ className="w-10 h-10 rounded-xl object-cover object-center shadow-[0_0_40px_rgba
           },
           {
             side: "left",
+            server: "ZentrixMC",
+            role: "Manager",
+            users: "+30 usuarios",
+            year: "2026",
+            desc: "En este servidor se me dio la oportunidad de manajer al Staff y mejorar la organizacion dentro de la Network.",
+            tags: ["Gestión del Servidor", "Management", "ScreenShare"],
+            logo: "/logo.png",
+          },
+          {
+            side: "right",
             server: "RayoMC",
             role: "Mod",
             users: "+100 usuarios",
             year: "2026",
-            desc: "Coordinación de contenido, gestión de comunidad y administración de sistemas internos en Discord.",
-            tags: ["Moderación", "Atención al Usuario", "ScreenShare"],
-            logo: "/rayomc.png",
-          },
-          {
-            side: "right",
-            server: "ZentrixMC",
-            role: "Manager & SS Manager",
-            users: "+30 usuarios",
-            year: "2026",
             desc: "Actualmente me encuentro moderando dentro de este Servidor.",
-            tags: ["Gestión del Servidor", "Management", "ScreenShare"],
-            logo: "/logo.png",
+            tags: ["Moderación", "Atención al Usuario", "Atención al Usuario"],
+            logo: "/rayomc.png",
           },
         ].map((item, index) => (
           <div
@@ -641,7 +641,7 @@ className="w-10 h-10 rounded-xl object-cover object-center shadow-[0_0_40px_rgba
           server: "RayoMC",
           image: "/joaco.png",
           review:
-            "Por modificar.",
+            "En proceso...",
         },
       ].map((review, index) => (
         <div
@@ -808,15 +808,15 @@ className="w-10 h-10 rounded-xl object-cover object-center shadow-[0_0_40px_rgba
   {/* Info */}
   <div>
     <p className="text-sm text-gray-500">
-      GunZ
+      Biografia
     </p>
 
     <h4 className="text-white font-semibold">
-      GunZ: The Duel Community
+      Deseas saber mas de mi?
     </h4>
 
     <p className="text-xs text-purple-300 mt-1">
-      Staff / Community Manager
+      En proceso de creación...
     </p>
   </div>
 </div>
